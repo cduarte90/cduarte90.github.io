@@ -1,0 +1,8 @@
+---
+title: "Clasificación Urbana por indice dasimetrico de la Cuenca de Río Luján"
+date: 10-30-2025
+---
+
+Se desarrolla el proceso de delimitación urbana y cálculo de densidad poblacional ajustada mediante un índice dasimétrico, aplicado sobre radios censales de los 15 partidos que forman parte de la Cuenca del Río Luján (ComiLu). Integra cartografía censal corregida, datos REDATAM del Censo 2022 y superficie construida derivada de GHSL, con el objetivo de identificar radios con suelo urbano consolidado y mejorar la representatividad espacial de los indicadores demográficos. El enfoque dasimétrico permite redistribuir las variables censales sobre áreas efectivamente urbanizadas, aportando mayor precisión territorial y una sólida base metodológica.
+
+Para descargar el documento completo [hacé click acá](clasificacion_urbana_lujan.pdf).

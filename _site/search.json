@@ -4,14 +4,7 @@
     "href": "proyectos.html",
     "title": "Proyectos",
     "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "Clasificación Urbana por indice dasimetrico de la Cuenca de Río Luján\n\n\n\n\n\n\n\n\n\nOct 30, 2025\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -21,10 +14,17 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "index.html#i-have-no-idea-what-im-doing",
-    "href": "index.html#i-have-no-idea-what-im-doing",
-    "title": "Celeste Duarte",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "About this site"
+  },
+  {
+    "objectID": "proyectos/clasificacion_urbana_lujan/index.html",
+    "href": "proyectos/clasificacion_urbana_lujan/index.html",
+    "title": "Clasificación Urbana por indice dasimetrico de la Cuenca de Río Luján",
+    "section": "",
+    "text": "Se desarrolla el proceso de delimitación urbana y cálculo de densidad poblacional ajustada mediante un índice dasimétrico, aplicado sobre radios censales de los 15 partidos que forman parte de la Cuenca del Río Luján (ComiLu). Integra cartografía censal corregida, datos REDATAM del Censo 2022 y superficie construida derivada de GHSL, con el objetivo de identificar radios con suelo urbano consolidado y mejorar la representatividad espacial de los indicadores demográficos. El enfoque dasimétrico permite redistribuir las variables censales sobre áreas efectivamente urbanizadas, aportando mayor precisión territorial y una sólida base metodológica.\nPara descargar el documento completo hacé click acá."
   }
 ]

@@ -1,5 +1,12 @@
 ---
 title: "Proyectos"
+listing:
+    contents: proyectos
+    sort: "date desc"
+    type: grid
+    categories: false
+    sort-ui: false
+    filter-ui: false
+page-layout: full
+title-block-banner: true
 ---
-
-About this site

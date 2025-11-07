@@ -9,6 +9,15 @@ website:
         text: Home
       - about.qmd
       - proyectos.qmd
+  search:
+    location: navbar
+    type: overlay
+  page-navigation: true
+
+  page-footer: 
+    center: |
+      &copy; 2025 Celeste Duarte
+
 
 format:
   html:
@@ -17,6 +26,5 @@ format:
       - brand
     css: styles.css
     toc: true
-
 
 
